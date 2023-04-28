@@ -1,0 +1,26 @@
+div:hover {
+    border: 3px solid black;
+    width: 200px;
+}
+
+#primaria {
+    background-color: purple;
+}
+
+#secundaria {
+    background: red;
+}
+
+#complementar {
+    background-color: black;
+    color: white;
+}
+
+#escura {
+    background-color: blue;
+    color: white;
+}
+
+#clara {
+    background-color: whitesmoke;
+}
