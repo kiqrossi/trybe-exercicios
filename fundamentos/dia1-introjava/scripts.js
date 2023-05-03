@@ -1,4 +1,4 @@
-let myName = "Caíque";
+let myName = "Caque";
 
 let birthCity = "Santos";
 
