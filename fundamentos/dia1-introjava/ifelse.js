@@ -1,4 +1,4 @@
-let trybe = 17.51;
+let trybe = 1.51;
 
 if (trybe >= 14 && trybe < 14.40) {
     console.log("Esquenta");
